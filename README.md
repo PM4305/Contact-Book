@@ -2,7 +2,7 @@
 
 **Efficiently manage your contacts with this Python-powered application, backed by a MySQL database for secure storage and retrieval!**
 
-**## Features**
+**Features**
 
 - **Organized contact management:**
     - Store and manage contact details (name, phone, email, address, etc.) in a structured database.
@@ -12,12 +12,12 @@
 - **Database-driven persistence:**
     - Leverages MySQL for secure and persistent contact data storage, ensuring data integrity.
 
-**## Technologies Used**
+**Technologies Used**
 
 - Python
 - MySQL
 
-**## Getting Started**
+**Getting Started**
 
 1. Clone the repository: `git clone https://github.com/your-username/contact-book-mysql.git`
 2. Install dependencies: `pip install -r requirements.txt`
@@ -26,17 +26,17 @@
     - Configure database connection details in the application's settings.
 4. Run the application: `python main.py`
 
-**## Usage**
+**Usage**
 
 - Follow the intuitive prompts in the terminal.
 - Utilize straightforward commands to add, view, edit, search, and delete contacts.
 
-**## Contributing**
+**Contributing**
 
 Welcome contributions! Open pull requests or issues for suggestions and improvements.
 
-**## Connect**
+**Connect**
 
 [PM4305] | [prakhar.madnani@gmail.com]
 
-**## Built with ❤️ by [PrakharM]**
+**Built with ❤️ by [PrakharM]**
