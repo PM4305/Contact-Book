@@ -1,4 +1,4 @@
- **# Contact Book App with Python & MySQL**
+ **Contact Book App with Python & MySQL**
 
 **Efficiently manage your contacts with this Python-powered application, backed by a MySQL database for secure storage and retrieval!**
 
